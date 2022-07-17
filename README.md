@@ -30,7 +30,7 @@ My Solution:
 
 ### Links
 
-- Live Site URL: [Skilled E-learning Landing Page](https://ivaberiashvili.github.io/skilled-elearning-landing-page/)
+- [Live URL:](https://ivaberiashvili.github.io/skilled-elearning-landing-page/)
 
 ## My process
 This was my first "proper" project and yes it took me a lot more than I expected. When things got complex I had to bring in style variables and think about the architecture of my CSS.
